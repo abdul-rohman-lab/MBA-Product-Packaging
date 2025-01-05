@@ -1,4 +1,4 @@
-#**Tujuan Market Basket Analysis di DQLab.id Fashion**
+# Tujuan Market Basket Analysis di DQLab.id Fashion
 
 Menciptakan Penawaran Terbaik Selanjutnya untuk Meningkatkan Pendapatan dan Loyalitas Pelanggan
 
